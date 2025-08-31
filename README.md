@@ -4,4 +4,4 @@ Accessibility é um projeto pessoal que pretendo desenvolver a partir de agora, 
 Como uma propria experiencia de vida notei que as funcoes de acessibilidade da maioria dos smartphones são incompletas
 Pensando sobre isso, tive a ideia de criar um aplicativo 'Acessibility all'
 Com a missão de inclusão de usuarios com deficiencia visual ou com baixa visão, entregando qualidade e inovaçoes no serviço.
-Usuarios do aplicativo 
+Dentro do aplicativo pretendo ultilizar linguagues atuais e facilitadoras como tambem a IA
